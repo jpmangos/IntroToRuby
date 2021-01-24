@@ -9,7 +9,7 @@ $global_variable = 10
 puts 'Hello World from main program!'
 puts "Print the global variable #{$global_variable}"
 puts "Print the global variable with addition #{$global_variable + 15}"
-puts 'Remake repsitory'
+puts 'Master as default branch!??'
 # This is the beginning of program/pre-code/intializer of program (BAD SHOPIFY SYNTAX)
 BEGIN {
     puts 'Hello from ruby intailization!'
